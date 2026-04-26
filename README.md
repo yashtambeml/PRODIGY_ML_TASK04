@@ -10,7 +10,6 @@ Recognized gestures include:
 * 👍 Thumbs Up
 * ☝️ One
 * ✌️ Peace
-* 🤙 Call Me
 * ✋ Open Hand
 
 ---
